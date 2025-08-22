@@ -97,4 +97,4 @@ exit
 
 ### 7. Capturas de evidencia
 
-Para ver las capturas ir a [evidencias]()
+Para ver las capturas ir a [evidencias](https://github.com/zeligmax/Montlleo-Max_dmz-lab/tree/main/evidencias)
